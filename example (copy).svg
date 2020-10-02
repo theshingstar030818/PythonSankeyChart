@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1200" height="800" viewBox="-600.0 -400.0 1200 800">
+<defs>
+</defs>
+<rect x="-300.0" y="-225.0" width="200.0" height="300.0" fill="#2f6fc7" />
+<text x="-200.0" y="-75.0" font-size="15.0" fill="white" text-anchor="middle" transform="translate(0,3.75)">Comp%</text>
+<text x="-200.0" y="-75.0" font-size="15.0" fill="white" text-anchor="middle" transform="translate(0,26.25)">15.7%</text>
+<path d="M-100.0,-225.0 L100.0,-247.7388535031847 L100.0,-20.350318471337573 L-100.0,2.388535031847141 Z" fill="#3e87c1" stroke="#3e87c1" />
+<text x="0.0" y="-111.30573248407643" font-size="15.0" fill="white" text-anchor="middle" transform="translate(0,3.75)">Traffic%</text>
+<path d="M100.0,-247.7388535031847 L240.0,-247.7388535031847 L240.0,-20.350318471337573 L100.0,-20.350318471337573 Z" fill="#87b7df" stroke="#87b7df" />
+<text x="170.0" y="-134.04458598726114" font-size="15.0" fill="black" text-anchor="middle" transform="translate(0,3.75)">11.9%</text>
+<path d="M-100.0,7.388535031847127 L100.0,0.6273885350318391 L100.0,68.23885350318471 L-100.0,75.0 Z" fill="#3e87c1" stroke="#3e87c1" />
+<text x="0.0" y="41.19426751592356" font-size="15.0" fill="white" text-anchor="middle" transform="translate(0,3.75)">Ticket%</text>
+<path d="M100.0,0.6273885350318391 L240.0,0.6273885350318391 L240.0,73.23885350318471 L100.0,73.23885350318471 Z" fill="#87b7df" stroke="#87b7df" />
+<text x="170.0" y="36.93312101910828" font-size="15.0" fill="black" text-anchor="middle" transform="translate(0,3.75)">3.8%</text>
+</svg>
